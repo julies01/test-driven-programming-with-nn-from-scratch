@@ -2,9 +2,9 @@ name: Test Neural Network Implementation
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ branche-principale, master ]
   pull_request:
-    branches: [ main, master ]
+    branches: [ branche-principale, master ]
 
 jobs:
   test:
